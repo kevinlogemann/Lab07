@@ -1,0 +1,5 @@
+while :
+do
+	echo "Press CTRL+C to exit." > still-going.txt
+	sleep 15
+done
